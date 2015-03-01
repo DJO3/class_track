@@ -1,0 +1,4 @@
+Django==1.7.5
+gnureadline==6.3.3
+ipython==3.0.0
+selenium==2.45.0
