@@ -17,6 +17,6 @@ Navigate to class_track and execute the following:
 `python manage.py runserver`
 
 ###### Requirements  
-1) Python 3.4
+1) Python 3.4  
 2) Everything in requirements.txt
 
